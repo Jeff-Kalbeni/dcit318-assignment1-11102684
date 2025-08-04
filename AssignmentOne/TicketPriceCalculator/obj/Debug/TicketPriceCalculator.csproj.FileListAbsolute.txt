@@ -1,0 +1,7 @@
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TicketPriceCalculator\bin\Debug\TicketPriceCalculator.exe.config
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TicketPriceCalculator\bin\Debug\TicketPriceCalculator.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TicketPriceCalculator\bin\Debug\TicketPriceCalculator.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.csproj.AssemblyReference.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TicketPriceCalculator\obj\Debug\TicketPriceCalculator.pdb
