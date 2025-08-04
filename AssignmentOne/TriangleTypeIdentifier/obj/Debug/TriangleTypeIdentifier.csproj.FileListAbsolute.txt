@@ -1,0 +1,7 @@
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe.config
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.AssemblyReference.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.pdb
