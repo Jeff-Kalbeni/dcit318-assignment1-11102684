@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentOne", "AssignmentOne\AssignmentOne.csproj", "{3BEB03E7-060B-44F4-A01E-8C429828CF23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalculator", "GradeCalculator\GradeCalculator.csproj", "{012FED53-4C9E-46F1-B21C-0B97125EE2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketPriceCalculator", "TicketPriceCalculator\TicketPriceCalculator.csproj", "{FC577492-7D4E-47C7-9905-1654DBF7FEE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleTypeIdentifier", "TriangleTypeIdentifier\TriangleTypeIdentifier.csproj", "{FD081CDB-3891-4E86-975F-FD605158E46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BEB03E7-060B-44F4-A01E-8C429828CF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEB03E7-060B-44F4-A01E-8C429828CF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEB03E7-060B-44F4-A01E-8C429828CF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEB03E7-060B-44F4-A01E-8C429828CF23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012FED53-4C9E-46F1-B21C-0B97125EE2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012FED53-4C9E-46F1-B21C-0B97125EE2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012FED53-4C9E-46F1-B21C-0B97125EE2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012FED53-4C9E-46F1-B21C-0B97125EE2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC577492-7D4E-47C7-9905-1654DBF7FEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC577492-7D4E-47C7-9905-1654DBF7FEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC577492-7D4E-47C7-9905-1654DBF7FEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC577492-7D4E-47C7-9905-1654DBF7FEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD081CDB-3891-4E86-975F-FD605158E46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD081CDB-3891-4E86-975F-FD605158E46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD081CDB-3891-4E86-975F-FD605158E46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD081CDB-3891-4E86-975F-FD605158E46A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D948EF-3CD3-453F-B57C-8DCCBBA409FE}
+	EndGlobalSection
+EndGlobal
