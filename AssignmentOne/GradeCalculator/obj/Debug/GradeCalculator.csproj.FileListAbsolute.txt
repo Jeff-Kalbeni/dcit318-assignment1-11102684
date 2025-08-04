@@ -1,0 +1,7 @@
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\GradeCalculator\obj\Debug\GradeCalculator.csproj.AssemblyReference.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\GradeCalculator\obj\Debug\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment1-11102684\AssignmentOne\GradeCalculator\obj\Debug\GradeCalculator.pdb
